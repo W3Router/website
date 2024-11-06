@@ -1,0 +1,35 @@
+.kefu-suspend {
+	position: fixed;
+	z-index: 999999;
+	top: 30%;
+	right: 5px;
+	background-color: #0E8CE7 !important;
+}
+
+.kefu-ul {
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+.kefu-ul li {
+	width: 130px;
+	height: 55px;
+	text-align: center;
+	line-height: 55px;
+	color: #ffffff;
+	border-bottom: solid #FFFFFF 1px;
+	list-style: none;
+	font-size: 18px;
+	cursor: pointer;
+}
+#kefu_weixn{
+				border-bottom: none;
+}
+			
+.kefu-ul li i {
+	margin-right: 12px;
+}
+
+.kefu-ul a:hover {
+	text-decoration: none;
+}
